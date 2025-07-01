@@ -22,7 +22,7 @@
         <h1>What is Semantic HTML</h1>
         <section>
           <p>
-            Semantic HTML also known as HTML5 is basically using appropriate tags to describe the content they contain, making the code more readable and understandable for both humans and machines. 
+            Semantic HTML is using appropriate tags to describe the content they contain, making the code more readable and understandable for both humans and machines. 
           </p>
         </section>
       </article>
