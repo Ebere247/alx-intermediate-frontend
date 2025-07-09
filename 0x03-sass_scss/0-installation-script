@@ -1,0 +1,23 @@
+1. Installed NVM using:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. Exited and reopened the terminal
+
+3. Loaded NVM manually using:
+   export NVM_DIR="$HOME/.nvm"
+   [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+4. Installed Node.js version 20.16.0 using:
+   nvm install 20.16.0
+
+5. Created project directory:
+   mkdir -p ~/alx-intermediate-frontend/0x03-sass_scss
+
+6. Installed latest SASS version using:
+   npm install sass
+
+7. Verified SASS version:
+   npx sass --version
+
+
+
